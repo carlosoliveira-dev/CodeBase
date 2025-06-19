@@ -7,10 +7,12 @@ comuns no desenvolvimento de sites.
 
 # Regras
 
-criar a estrutura com vite na pasta frontend
+## soluções
+Cada funcionalidade adicionada na CodeBase deve ter
+comentários que serão usados para consultas futuras. 
 
-no backend vai ter o esqueleto do laravel
-
-nesse arquivo vão estar as regras de como escrever os 
-exemplos de código pra me ajudar a documentar e fazer
-também minhas anotações nesse repositório.
+## anotações
+As minhas anotações devem ser feitas em arquivos .md como 
+esse.
+A organização das anotações vai ser feita usando subpastas
+de 'Notes'.
