@@ -4,7 +4,7 @@
 
 ### [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 #### html reference
-- [ ] Elements
+- [x] Elements
 - [ ] Attributes
 - [ ] Global attributes
 - [ ] Attributes by element
