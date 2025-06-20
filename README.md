@@ -7,12 +7,10 @@ comuns no desenvolvimento de sites.
 
 # Regras
 
-## soluções
-Cada funcionalidade adicionada na CodeBase deve ter
-comentários que serão usados para consultas futuras. 
+## snippets
+Cada código de exemplo adicionado na CodeBase deve ser comentado.
 
 ## anotações
-As minhas anotações devem ser feitas em arquivos .md como 
-esse.
-A organização das anotações vai ser feita usando subpastas
-de 'Notes'.
+Todas as anotações devem explicar de forma clara os conceitos
+mais abstratos de cada tecnologia.
+
