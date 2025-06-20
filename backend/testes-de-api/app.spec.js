@@ -1,5 +1,5 @@
 const request = require('supertest');
-const { app, port } = require('./app');
+const { app } = require('./app');
 
 describe('GET /', () => {
     test('should respond with "Hello World!"', async () => {
