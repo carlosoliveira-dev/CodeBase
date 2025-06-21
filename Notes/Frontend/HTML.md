@@ -11,6 +11,8 @@ o fechamento da tag.
 
 Document metadata-> contém informações sobre a página.
 
+Attributes-> configurações dos elementos exemplo 'disable':
+<b>\<button disabled>Botão desativado\</button></b>
 
 ## links importantes
 elementos agrupados por função no lado direito:
