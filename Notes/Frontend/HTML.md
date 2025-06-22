@@ -14,6 +14,9 @@ Document metadata-> contém informações sobre a página.
 Attributes-> configurações dos elementos exemplo 'disable':
 <b>\<button disabled>Botão desativado\</button></b>
 
+Global attributes-> atributos que podem ser usados em todos os
+elementos html. Exemplo: \<input name="input" autofocus />
+
 ## links importantes
 elementos agrupados por função no lado direito:
 [Elements](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements)
