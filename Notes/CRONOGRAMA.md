@@ -6,7 +6,7 @@
 #### html reference
 - [x] Elements
 - [x] Attributes
-- [ ] Global attributes
+- [x] Global attributes
 - [ ] Attributes by element
 - [ ] Attribute values
 
