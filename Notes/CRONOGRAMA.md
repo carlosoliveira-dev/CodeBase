@@ -7,8 +7,6 @@
 - [x] Elements
 - [x] Attributes
 - [x] Global attributes
-- [ ] Attributes by element
-- [ ] Attribute values
 
 ### [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 #### CSS reference
